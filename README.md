@@ -77,7 +77,7 @@ Models were evaluated using standard metrics such as:
 ## 👨‍💻 Author
 
 **Sidharth K**
-2nd Year Undergraduate | Aspiring AI/ML Engineer
+2nd Year Undergraduate 
 
 ---
 
