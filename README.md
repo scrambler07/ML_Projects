@@ -6,12 +6,12 @@ This repository contains my hands-on implementations of fundamental Machine Lear
 
 ## 🚀 Topics Covered
 
-* 📉 Linear Regression (from scratch & using libraries)
-* 🔁 Gradient Descent Optimization
-* 📊 Support Vector Machines (SVM)
-* 🌳 Decision Trees
-* 🧠 Artificial Neural Networks (ANN)
 * 🖼️ Convolutional Neural Networks (CNN)
+* 🧠 Artificial Neural Networks (ANN)
+* 🌳 Decision Trees
+* 📊 Support Vector Machines (SVM)
+* 🔁 Gradient Descent Optimization 
+* 📉 Linear Regression (from scratch & using libraries) 
 
 ---
 
@@ -26,7 +26,7 @@ This repository contains my hands-on implementations of fundamental Machine Lear
 ## 📂 Repository Structure
 
 ```
-ML-Lab-Projects/
+ML-Projects/
 │
 ├── Linear-Regression/
 ├── Gradient-Descent/
